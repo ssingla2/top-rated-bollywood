@@ -1,2 +1,2 @@
-# top-rated-bollywood
-This repository contains the dummy api of bollywood top rated movies.
+# Top-Rated-Bollywood
+This repository contains the dummy api of Bollywood top rated movies.
